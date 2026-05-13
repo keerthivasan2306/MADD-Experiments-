@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "EXP-1D"
+rootProject.name = "Exp-2_Calculator"
 include(":app")
