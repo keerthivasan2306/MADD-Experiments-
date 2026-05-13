@@ -22,5 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Exp-2A"
+rootProject.name = "HandGestures"
 include(":app")
+ 
