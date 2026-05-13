@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Exp-3"
+rootProject.name = "Second_mad"
 include(":app")
- 
