@@ -19,9 +19,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url= uri("https://jitpack.io") }
     }
 }
 
-rootProject.name = "HandGestures"
+rootProject.name = "Data visualization"
 include(":app")
- 
