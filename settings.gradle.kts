@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BMI"
+rootProject.name = "EXP-1D"
 include(":app")
