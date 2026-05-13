@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Second_mad"
+rootProject.name = "BMI"
 include(":app")
